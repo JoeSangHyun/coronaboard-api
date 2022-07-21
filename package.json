@@ -1,7 +1,6 @@
 {
   "name": "coronaboard-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +11,16 @@
     "express": "^4.18.1",
     "lodash": "^4.17.20",
     "mysql2": "^2.2.5",
+    "oracledb": "^5.4.0",
     "sequelize": "^6.3.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeSangHyun/coronaboard-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoeSangHyun/coronaboard-api/issues"
+  },
+  "homepage": "https://github.com/JoeSangHyun/coronaboard-api#readme",
+  "description": ""
 }
